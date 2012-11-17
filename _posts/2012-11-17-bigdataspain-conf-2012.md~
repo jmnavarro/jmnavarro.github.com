@@ -1,0 +1,11 @@
+---
+layout: post
+title: "BigDataSpain Conf 2012"
+description: ""
+category: 
+tags: [bigdata conference]
+---
+{% include JB/setup %}
+
+Yesterday I was in the [BigDataSpain Conference](http://www.bigdataspain.org/) listening talks of some international speakers. You don't have the opportunity to listen coders from [Cassandra](http://cassandra.apache.org/), [Apache Pig](http://pig.apache.org/) (part of Hadoop stack) or [BigQuery](https://developers.google.com/bigquery/). So it was very interesting and enlightening. My favourites talks:
+  - cd   
