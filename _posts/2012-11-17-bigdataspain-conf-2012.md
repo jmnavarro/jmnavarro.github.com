@@ -3,7 +3,7 @@ layout: post
 title: "BigDataSpain Conf 2012"
 description: ""
 category: 
-tags: [bigdata conference]
+tags: [bigdata, conference]
 ---
 {% include JB/setup %}
 
