@@ -23,3 +23,5 @@ Here you can see it running in the iPad simulator:
 <br/>
 
 Hope you like it!
+
+*UPDATE:* Steve has [highlighted this tiny project](http://mousebirdconsulting.blogspot.com.es/2012/12/whirlyglobecartodb-demo-and-appnation-iv.html) on his blog. I'm so honored and absolutely grateful!
