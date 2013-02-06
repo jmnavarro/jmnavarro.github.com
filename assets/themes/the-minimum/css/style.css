@@ -95,7 +95,7 @@ small, .small, aside {
   font-size: 1em;
 }
 blockquote {
-  font-weight: bold;
+  font-style: italic;
 }
 blockquote cite {
   font-weight: normal;
@@ -294,6 +294,7 @@ pre {
 }
 .unit-article blockquote {
   border-left: 1em solid rgba(21, 25, 25, 0.8);
+  border-left-width: 0.25em;
   padding-left: 1em;
 }
 .unit-article blockquote p {
