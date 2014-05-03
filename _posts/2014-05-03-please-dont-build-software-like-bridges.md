@@ -7,7 +7,7 @@ tags: [software-development]
 ---
 {% include JB/setup %}
 
-Few days ago, I found myself writing a loooong answer to [this post](https://medium.com/on-product-management/9264314b8965). It's written by one of my new co-workers, so I thought a _response-post_ could be a better idea.
+Few days ago, I found myself writing a loooong answer to [this post](https://medium.com/on-product-management/9264314b8965). It's written by one of my new co-workers, so I thought a response-post could be a better idea.
 
 I totally agree with most of the points of the article: we should get feedback from users in order to be able to give them a valid solution. Otherwise your product will be totally useless, solving "problems" that nobody has.
 
