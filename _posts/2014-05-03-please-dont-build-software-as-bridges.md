@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Please, don't build software like bridges"
+title: "Please, don't build software as bridges"
 description: ""
 category: 
 tags: [software-development]
@@ -13,9 +13,9 @@ I totally agree with most of the points of the article: we should get feedback f
 
 But the question is: **what is the best way to get this feedback?** and, **are you and your users able to give you the right feedback when you reach them at first?**
 
-Probably those women didn’t know how important was the far-distance-well for their lives and they discovered it just when they experimented other ways. Or maybe they knew that the far-well was important, but needed to live without it, in order to balance the pros and cons or having water at home. Who knows, the clue is: it use to be quite challenging to discover some kind of things with certainty without experimenting with them.
+Probably those women didn’t know how important was the far-distance-well for their lives and they discovered it just when they experimented other ways. Or maybe they knew that the far-well was important, but needed to live without it, in order to balance the pros and cons or having water at home. Who knows! The fact is it use to be quite difficult to discover some kind of things with certainty without experimenting with them first.
 
-Unfortunately, common sense (and engineering-way of thinking) told us the opposite: always try to reach the right and final solution at the first attempt, but it's not always feasible, or it may be possible, but it needs an extremely hard planification and design phases. Engineering-way of building things (like wells, bridges or roads) spend **a lof of time** in these preliminary phases, just because they cannot use "trial and error": if they fail in the first attempt, the waste of time and money is so high that they cannot afford a second chance.
+Unfortunately, common sense (and engineering-way of thinking) told us the opposite: always try to reach the right and final solution at the first attempt, but it's not always feasible, or it may be possible, but it needs an extremely hard planification and design phases. Engineering-way of building things (as wells, bridges or roads) spend **a lof of time** in these preliminary phases, just because they cannot use "trial and error": if they fail in the first attempt, the waste of time and money is so high that they cannot afford a second chance.
 
 But fortunately software is quite different because the *cost of failure* is relatively low: you can fail once, twice or even more time, learn thru the process, and deliver a better product in the next (maybe the last) try. That's why one of the easiest ways to get right feedback in software is through *prototyping and experimenting* ([this article about game development approaches](http://www.lostgarden.com/2007/02/rockets-cars-and-gardens-visualizing.html) explains it much better than me, so please, read it for more details). And this method gives to us a nice-to-have side effect: it forces you to write the code in such a way that it's flexible, simple and ready to allow the change, no matter how big it is.
 
